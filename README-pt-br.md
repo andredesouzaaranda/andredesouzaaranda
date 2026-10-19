@@ -7,7 +7,7 @@
 Olá, seja bem-vindo ao meu perfil do GitHub!<br>
 Eu sou acadêmico de **Tecnologia em Sistemas para Internet** e possuo o diploma de **Técnico em Informática para Internet** pela [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/).<br>
 
-## 🎓 Formação
+## 🎓 Educação
 
 Universidade Tecnológica Federal do Paraná ([Site](https://www.utfpr.edu.br/), [LinkedIn](https://www.linkedin.com/school/utfpr-oficial/))
 
