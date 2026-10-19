@@ -5,7 +5,6 @@
 # André de Souza Aranda
 
 Hello, welcome to my GitHub profile!<br>
-I am a **Software Engineer**, **DevOps Engineer**, and **Information Technology Analyst**.<br>
 I am a student of **Internet Systems Technology** and hold a **Technical Diploma in Internet Computing** from [Federal University of Technology – Paraná](https://www.utfpr.edu.br/).<br>
 
 ## 🎓 Education
