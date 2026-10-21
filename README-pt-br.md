@@ -24,8 +24,6 @@ Técnico em Informática para Internet<br>
 <p>
   <a href="https://andredesouzaaranda.online"><img src=".github/site.svg" alt="Site" width="50"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:andredesouzaaranda@gmail.com"><img src=".github/gmail.svg" alt="Gmail" width="50"></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andredesouzaaranda"><img src=".github/linkedin.svg" alt="LinkedIn" width="50"></a>
 </p>
 
